@@ -476,6 +476,7 @@ wsa://com.apple.android.music
 | Fire Emblem Heroes | 6.7.0 | 12, 11 | 🆖 | Requires GMS. If GMS is installed, it cannot be played due to SafetyNet error.
 | Fortnite | 14.10.0 | 11 | ❌ | Crashes at login screen
 | Fortnite Installer | 4.1.4 | 11 | ❌ | "Device not supported" error
+| Football Strike | 1.23.1 | 13 | ✅
 | Fruit Ninja | 3.3.4 | 11 | ✅ | Version check error | Otherwise, other app functionality is fine
 | Game Dev Story | 2.47 | 11 | ❌ | App can start but with infinite "loading" screen
 | Garage: Bad Dream Adventure | 1.0.191 | 11 | ⚠️ | Stuck after start of Chapter 1
@@ -485,7 +486,7 @@ wsa://com.apple.android.music
 | Grand Theft Auto: San Andreas || 11 | ✅
 | Guardian Tales | 2.53.1 | 12, 11 | 🆖 | Requires GMS
 | Hatsune Miku: Colorful Stage! | 1.3.2 | 11, 12 | ❌ | App either crashes when loading into game after login or app screen turns dark
-| Hay Day | 1.55.93 (1706) | 1 | ❌ | App crashes on startup (Worked on 1.54.71 and earlier)
+| Hay Day | 1.55.93 (1706) | 12 | ❌ | App crashes on startup (Worked on 1.54.71 and earlier)
 | Hill Climb Racing | 1.53.0 (501) | 11 | ✅
 | Hitman Sniper | 1.7.193827 | 11 | ⚠️ | Terrible in-game experience, includes poor performance and low FPS
 | Honkai Impact 3rd| 5.1.0 | 11 | ⚠️ | Poor graphics quality
@@ -494,7 +495,7 @@ wsa://com.apple.android.music
 | Jet Car Stunts 2 | 1.0.13 | 11 | ❌ | Loads up but orientation and menus are broken
 | Jetpack Joyride | 1.52.1 (58461800) | 11 | ⚠️ | Google Play Games sync doesn't work, otherwise the game functionality is fine
 | KINGDOM HEARTS Uχ Dark Road | 4.4.0 (Offline) | 11 | ✅ | GMS warnings might appear but these can be safely ignored
-| King of Thieves | 2.57.1 | ✅
+| King of Thieves | 2.59.1 | 13, 12 | ✅
 | Konosuba:FD | 1.12.1 | 11 | 🆖 | Requires GMS
 | Last Day On Earth: Survival || 11 | 🆖 | Might require GMS
 | League of Legends: Wild Rift || 11 | ✅
